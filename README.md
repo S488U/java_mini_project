@@ -6,7 +6,7 @@ To run the calculator:
 - To run the code: `java Calculator`
 
 #### Output:
-![Image of Swing Calculator](https://github.com/S488U/java_mini_project/blob/main/calculator.png?raw=true)
+![Image of Swing Calculator](https://github.com/S488U/java_mini_project/blob/main/Images/calculator.png?raw=true)
 
 ## Applet Home Drawing
 ### The user must need to install the JAVA 8 to support the Applet Program. 
@@ -15,7 +15,7 @@ To view the Home Drawing:
 - Run the code: `appletviewer Home.java`
 
 #### Output:
-![Image of Applet Home Drawing](https://github.com/S488U/java_mini_project/blob/main/home.png?raw=true)
+![Image of Applet Home Drawing](https://github.com/S488U/java_mini_project/blob/main/Images/home.png?raw=true)
 -----
 
 
